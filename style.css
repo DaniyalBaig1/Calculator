@@ -1,0 +1,30 @@
+.main{
+    border: 2px solid gray;
+    width: 200px;
+    margin: 0 auto;
+    
+}
+.btnclear{
+    width: 100%;
+
+}
+
+#result{
+    width: 96%;
+  
+    margin-bottom: 10px;
+}
+
+
+
+.btn{
+    width: 45px;
+    margin: 1px ;
+    margin-top: 5px;
+}
+
+
+.btn1{
+    width: 98px;
+    margin-top: 5px;
+}
